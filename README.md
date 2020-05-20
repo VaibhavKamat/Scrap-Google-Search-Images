@@ -1,5 +1,5 @@
 # Scrap-Google-Search-Images
-Scrap Google search images using Python3-Selenium and download to your system. You need to provide a search query and number of images to be downloaded (count) to the script.
+Scrap Google search images using Python3-Selenium and download to your system. You need to provide a search query and number of images to be downloaded to the script.
 
 ## Dependencies
 1. **Install Selenium Python** 
