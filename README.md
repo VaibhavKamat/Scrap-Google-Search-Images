@@ -3,11 +3,11 @@ Scrap Google search images using Python3-Selenium and download to your system. Y
 
 ## Dependencies
 
-1. **Install Selenium Python** 
-   pip install selenium
+1. **Install Selenium Python**
+- pip install selenium
    
 2. **Gecko driver** for **Firefox** or **Chrome driver** for **Chrome** browser.
-   Need to have gecko driver (or Chrome driver) in the same directory as the python script.
+- Need to have gecko driver (or Chrome driver) in the same directory as the python script.
    Incase of chrome driver, the script will need to be run with Chrome browser (by using driver = webdriver.Chrome() on line 20).
 
 ## Running the Python script
