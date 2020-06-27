@@ -13,7 +13,9 @@ Scrap Google search images using Python3-Selenium and download to your system. Y
 
 ## Running the Python script
 
-python google_image_retriever.py "<search_query>" <number_of_images>
+python google_image_retriever.py "<search_query>" <number_of_images> <thumbnail>
+   
+if <thumbnail> is set to 0 (or False), it will try downloading the full image. If it is set to 1 (or True), then it will try downloading the thumbnails.
 
 ## Disclaimer
 
